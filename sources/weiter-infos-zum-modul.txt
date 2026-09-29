@@ -1,0 +1,321 @@
+Suggested Learning Materials
+
+
+
+
+
+Deep dive and input notebooks: https://gitlab.fhnw.ch/teaching-sg-ds/gbsv_materials 
+
+
+
+
+
+Signals: https://brianmcfee.net/dstbook-site/content/intro.html
+
+
+
+Images: https://vincmazet.github.io/bip/digital-images/intro.html
+
+
+
+Lesespuren: https://spaces.informatik.fhnw.ch/spaces/grundlagen-der-bild-und-signalverarbeitung/aufgaben#Lesespuren-(German-only)
+
+
+
+FAQ videos: https://tube.switch.ch/channels/WQpPJdA1n2 (German)
+
+Lesespuren (German only)
+
+Grundlagen Bild- und Signalverarbeitung (LE1)
+
+
+
+
+
+Farbräume
+
+
+
+Bildeigenschaften
+
+
+
+Signaleigenschaften
+
+
+
+Metriken
+
+Faltung/Filterung in Bild und Signal (LE2)
+
+
+
+
+
+Faltung/Convolution
+
+
+
+Filtern in (Zeit- oder) Raumdomäne
+
+
+
+Filtern in der Frequenzdomäne
+
+
+
+Ecken- und Kantenfilter
+
+Lösungen: gbsv_lesespuren-loesungen
+
+Mini-Challenges
+
+Versions
+
+
+
+
+
+Version: 15-Day-Challenge
+
+
+
+
+
+Daily submission for 15 days (weekends excluded)
+
+
+
+Profit from regular feedback and bonus credits per submitted day if you submit at least 10 days
+
+
+
+Revisions are possible until day 15 if they are visually highlighted in color
+
+
+
+Version B:
+
+
+
+
+
+Do MCs at your own pace but until the defined hand-in date
+
+
+
+2-3 check-ins with Fachexpertin (one per MC, third one upon request of Fachexpertin)
+
+Tasks and Grading MC1 on Signals
+
+
+
+
+
+New: Tasks description (as of HS26): gbsv_MC1-signals_2026-09-21.docx 
+
+
+
+New: MC1 kickoff slides: gbsv_mc1_kickoff_2026-09-21.pdf 
+
+Tasks and Grading MC2 on Images
+
+
+
+
+
+New: Tasks description (as of HS26, preliminary version): gbsv_MC2-images_2026-10-10.docx 
+
+
+
+MC2 kickoff slides: gbsv_mc2_kickoff_2026-04-21.pdf 
+
+General Notes
+
+
+
+
+
+New: Grading rubric including interpretation and performance indicators for gbsv: gbsv_mc_grading-rubric_2026-10-21.xlsx 
+
+
+
+New: Jupyter notebook template: gbsv_template_per_task.ipynb 
+
+
+
+(old, but maybe still interesting —> checkliste for peer grading: gbsv_Peer-Grading-Checkliste_2023-09-15)
+
+
+
+Beispiele WAS, WIE, WARUM, Fragestellung, Anwendungsszenario: Beispiele_WAS_WIE_WARUM
+
+
+
+See calendar for dates.
+
+
+
+The submission must not contain any commented-out code passages.
+
+
+
+
+
+Note on code comments: Code comments are helpful if they explain why a decision was made or why a calculation was carried out in the particular way or according to which source a calculation was implemented. In practice, however, code comments are often forgotten during code development. As a result, comments are often obsolete. My recommendation is therefore: as many comments as necessary, but as few as possible. In principle, the code should be written in such a way that it is self-explanatory.
+
+
+
+Collaboration is allowed for the development of content. However, collaboration is limited to algorithmic questions and aspects of understanding.
+
+
+
+The use of code sources (such as ChatGPT or StackOverflow etc.) must be specified.
+
+Entry Tasks
+
+Literature
+
+Here is an overview of the topics relevant to gbsv, including references. The references are in []; the links are in the learning materials:
+
+[BB:15]: Burger and Burge, 2015: Digital image processing, 3rd edition, German
+
+[RN:18]: Russ and Neal, 2018: The Image Processing Handbook, 7th Edition
+
+[NA:18]: Nixon and Aguado 2018: Feature Extraction and Image Processing
+
+[Dey:18]: Dey, 2018: Hands-On Image Processing with Python
+
+Foundations in Image and Signal Processing (LO1)
+
+
+
+
+
+Sample image data [RN:18, Chapter 1]
+
+
+
+Color spaces (RGB, YUV, CMY) and transformations [RN:18, Chapter 1 Color Spaces, Fig 1.45; BB:15, Chapter 12]
+
+
+
+Color correction [RN:18, Chapter 1 Color Correction]
+
+
+
+Image properties [BB:15, Chapters 4 and 12]:
+
+
+
+Brightness, contrast, color mode, color saturation, sharpness, noise
+
+
+
+Value ranges and spatial resolution of pixels
+
+
+
+Histogram analysis, histogram equalization [BB:15, chapter 3 and from 4.5]
+
+
+
+Signal properties:
+
+
+
+
+
+Amplitude, frequency, phase, period, waveform, noise, spectrum, bandwidth
+
+
+
+Normalization, standardization
+
+
+
+Nyquist-Shanon Theorem
+
+
+
+Metrics:
+
+
+
+
+
+Mean Squared Error (MSE)
+
+
+
+Structural Similarity Index (SSIM)
+
+
+
+(Peak)-Signal-To-Noise-Ratio ((P)SNR) [RN:18, Chapter 1 Noise, Fig. 127/1.28; Chapter 4 Noisy Images → 6th edition not 7th edition]
+
+
+
+Libraries in Python:
+
+
+
+
+
+Images: PIL, opencv, scikit-image
+
+
+
+Signals: SciPy, NumPy, librosa
+
+Correlation, Convolution, Filterung (LO2)
+
+
+
+
+
+Concepts kernel + convolution [BB:15, chapter 5, see also slides Susanne]
+
+
+
+Corner and edge filters [BB:15, chapters 6 to 8; RN:18, chapter 5; Dey:18, chapter derivatives etc.]
+
+
+
+Filtering in spatial domain [BB:15, chapters 5 and 13]:
+
+
+
+
+
+Smoothing filter, noise, moving average, min/max filter, median filter
+
+
+
+Filtering in the frequency domain [NA:18 chapter 2, Dey:18, chapter 2]:
+
+
+
+
+
+Fourier, wavelets if applicable
+
+Pattern Search (LE3)
+
+
+
+
+
+Thresholding / Segmentation [RN:18, Chapter 7]
+
+
+
+Morphological operations [RN:18, Chapter 8 Erosion/Dilation/Opening/Closing]
+
+
+
+Connected Components
+
+
+
+Skeletons

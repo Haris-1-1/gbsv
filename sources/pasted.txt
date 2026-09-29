@@ -1,0 +1,257 @@
+Changes HS26
+
+
+
+
+
+For each mini-challenge, there is an individual assessment (oral)
+
+What can you expect?
+
+«Grundlagen der Bild- und Signalverarbeitung» (English: “Foundation in Image and Signal Processing”) is a portfolio module. This means that you will work on the learning outcomes through various tasks that you put together yourself. The module can be completed in one or more semesters.
+
+The module covers fundamental and advanced concepts of image and signal processing, including the sampling theorem, correlation and convolution operations, data augmentation techniques, and classical methods for pattern detection and image processing, and shows how these concepts underpin modern deep learning–based approaches.
+
+
+
+Sample analysis in gbsv: digital signal sampling and image augmentation
+
+The module “Fundamentals of Image and Signal Processing” comprises three learning outcomes, which are acquired through self-study by means of set tasks. 
+
+Table of contents
+
+
+
+
+
+Signal and image representation, sampling, and characteristics (e.g., Nyquist sampling theorem, color spaces, channels, histograms, noise) 
+
+
+
+Correlation, convolution, deconvolution, and filtering (e.g., linear and non-linear filters) 
+
+
+
+Preprocessing, enhancement, and data augmentation (e.g., white balance, thresholding, geometric and intensity transformations) 
+
+
+
+Feature and pattern detection (e.g., edges, corners, lines, circles) 
+
+
+
+Image segmentation and object-based image analysis (e.g., threshold-based segmentation, object properties) 
+
+
+
+Morphological operations (e.g., erosion, dilation, opening, closing)
+
+Learning Outcomes (LOs) and Path
+
+
+
+
+
+Assessment (Kompetenznachweis)
+
+Overview Assessment
+
+
+
+
+
+2 graded submissions (mini-challenges)
+
+
+
+Per MC: either 1-2 not-assessed check-ins or 15-day mini-challenge completion
+
+
+
+New: Individual graded assessment as part of mini-challenge (oral)
+
+
+
+Late hand-ins rejected
+
+Detailed Information on the Assessment
+
+The performance record consists of:
+
+
+
+
+
+2 graded submissions (mini-challenges), equally weighted
+
+
+
+
+
+German or English
+
+
+
+MC1: signal processing
+
+
+
+MC2: image processing
+
+
+
+Mandatory MC components (not graded, but required for submission):
+
+
+
+
+
+Per MC: either 1-2 not-assessed check-in-meetings or 15-day mini-challenge completion
+
+
+
+Per MC: individual oral assessment
+
+
+
+Dates see Spaces calendar
+
+Rules
+
+
+
+
+
+It is possible to do MC1 and MC2 in different semesters
+
+
+
+If you already submitted one MC, but miss only the second one, discuss with DS subject matter expert (Fachexpert*in) the missing parts (since MCs were restructured)
+
+
+
+Individual assessment:
+
+
+
+
+
+Format: 15 min/student, oral, closed notes, based on your individual MC submission
+
+
+
+3 different topics (e.g., Sampling Theorem, Correlation, Convolution)→ one main question + one follow-up question per topic 
+
+
+
+Question types: 
+
+
+
+
+
+Explain: “You did X here. What does this result mean?” 
+
+
+
+Justify: “Why did you choose X rather than Y?” 
+
+
+
+Transfer: “Suppose I change X to Y. What would you expect to happen, and why?”
+
+
+
+6 questions, each rated with 0-2 points → max. 12 points
+
+
+
+
+
+2: correct, precise, can explain why
+
+
+
+1: partially correct / understands basic idea but explanation incomplete
+
+
+
+0: incorrect / cannot explain
+
+
+
+Point-to-grade conversion: grade =1+5⋅(points/12), rounded to 0.1; 12 points = grade 6.0, 7 points = grade 3.9
+
+
+
+Keep answers concise: aim for approximately 1–2 minutes per question; I may interrupt once I have sufficient evidence and move on to the follow-up question. You can also say you want to skip an question.
+
+How are you supported?
+
+The acquisition of skills should generally be carried out independently, but we will support you in several ways.
+
+Organization
+
+HS26: Choose between two versions for the mini-challenge assignments. Yellow: inputs, orange: milestones.
+
+Kick-off
+
+First contact hour of the semester: gbsv_kickoff_2026-09-15.pdf 
+
+Deep Dive and Inputs
+
+There will be one half-day hands-on deep dives to give you an introduction to the topic and several hands-on and inout sessions.
+
+
+
+
+
+Deep Dive 1: Foundations in signal processing (1D): sampling theorem, filtering (correlation, convolution)
+
+
+
+Input: Kickoff MC 1 examples and advice
+
+
+
+Input: Kickoff MC 2 examples and advice
+
+
+
+Inputs & hands-on session: Foundations in image processing (2D), filtering, morphological operations
+
+
+
+For documents see: https://gitlab.fhnw.ch/teaching-sg-ds/gbsv_materials
+
+
+
+Dates see gbsv calendar
+
+Contact Hours
+
+During the semester, experts are available to you during the contact hour (see box on the right). 
+
+Individual Check-ins
+
+
+
+
+
+What: In these check-ins, a specific aspect of the mini-challenge is discussed together. This means that you come to the check-ins with an idea, a dataset or a result, which we then discuss
+
+
+
+When: During contact hours via drop in or reserve a slot via Calendly.
+
+
+
+Frequency: There is at least one check-in per MC. If things don’t go smooth, I may ask for further check-ins
+
+
+
+Who: Other students are allowed (and even encouraged) to listen to the discussion in the check-in. So that everyone learns something from it.
+
+Feedback
+
+Do you have any suggestions for improvement? Just drop by and let me know or send me a 

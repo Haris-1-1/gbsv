@@ -1,0 +1,37 @@
+gbsv MC1 - 1D Signals - individueller Rhythmus
+Fällig am 1. November 2026 23:59
+•
+Mehrere Übermittlungen zulässig
+Anweisungen
+Welcome to the gbsv MC1, which is about signal processing in 1D. 
+
+
+
+
+In this mini-challenge, the tasks are in the form of experiments in foundations in signal and image processing to assess LO1-LO3 themed to a country of choice. Each student submits a unique solution with individual data and analysis. That is, each student chooses signals or images themed for the selected country and the assigned tasks. Unless otherwise mentioned, existing libraries may be used.  
+
+Note: Some tasks are kept open. Set your own frame for the limitation or ask if the boundaries are not clear to you. As a rule of thumb one day should take you around 2h +/-30min per day.
+
+Version Individual Rhythm 
+
+Conduct your MC according to your own schedule/rhythm 
+Mandatory check-in (review meeting): MC is only graded if a check-in was conducted.
+Submission and Grading 
+
+The final grade combines the written assignment and an individual oral assessment (50:50 ratio). 
+Submission are conducted via Microsoft Teams Assignments in the gbsv Teams. 
+Deliverables: 
+Submit source code file of your submission (one notebook per section 1.1-1-3) 
+Link to code and results incl. signals/images, if applicable 
+Make sure that audio is playable within notebooks; otherwise, provide an HTML export. 
+Make sure that results are visually traceable, e.g., by showing original and transformed data. 
+See grading rubrics, gbsv interpretations and indicators for strong vs. weak performance 
+Assessment is based on the quality of your technical framing and justifications. 
+Effective selection of task-appropriate data, pinpoint creativity, moderate diversity, and critical thinking are sought rather than extensive submissions.  
+Submissions received after the deadline, zipped or submitted via email will not be considered.
+
+Notes: 
+
+The documents are organized in daily tasks, but you may solve them with your own rhythm. 
+Revision updates 2026-09-25: Learning objectives & minor wording
+Referenzmaterialien
